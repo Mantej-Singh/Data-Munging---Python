@@ -4,5 +4,5 @@
   * My source file is `Capstone_Data.csv` which has all the `Credit card transactions data`
   * I have used `plotly` library for interective graphs using [Plotly API](https://plot.ly/python/)
   
-  Format: ![Plot](https://plot.ly/~mhd9/0/number-of-transactions/)
+  [Demo](https://plot.ly/~mhd9/0/number-of-transactions/)
   
