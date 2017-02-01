@@ -6,3 +6,8 @@
   
   [Demo Plot](https://plot.ly/~mhd9/0/number-of-transactions/)
   
+  
+  ##output:
+  
+  [![screenshot_1.png](https://s19.postimg.org/sojwoa2wj/screenshot_1.png)](https://postimg.org/image/fkecblaun/)
+  
