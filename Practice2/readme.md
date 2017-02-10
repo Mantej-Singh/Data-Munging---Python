@@ -31,5 +31,5 @@ df.head()
 
 
 #Special thanks to 
-    * Kevin Markham <kevin@dataschool.io>
-    * Swarupa @rsmaitreyi
+    *Kevin Markham <kevin@dataschool.io>
+    *Swarupa @rsmaitreyi
