@@ -30,6 +30,6 @@ df.head()
 ```
 - - - -
 
-#Special thanks to 
+#Special thanks to my teachers:
     * Kevin Markham <kevin@dataschool.io>
     * Swarupa @rsmaitreyi
