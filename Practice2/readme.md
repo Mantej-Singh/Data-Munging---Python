@@ -32,4 +32,4 @@ df.head()
 
 #Special thanks to my teachers:
     * Kevin Markham <kevin@dataschool.io>
-    * Swarupa @rsmaitreyi
+    * Swarupa @rsmaitreyi <The Data Incubator>
