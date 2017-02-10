@@ -28,8 +28,8 @@ df.set_index([[2,3,4,0,1]],inplace=True)
 df=df.sort_index()
 df.head()
 ```
-
+- - - -
 
 #Special thanks to 
-    *Kevin Markham <kevin@dataschool.io>
-    *Swarupa @rsmaitreyi
+    * Kevin Markham <kevin@dataschool.io>
+    * Swarupa @rsmaitreyi
